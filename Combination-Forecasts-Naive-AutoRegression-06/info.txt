@@ -1,0 +1,1 @@
+For purpose of this I created two forecasts using sample data(only about 300 values) to define and learn how to make combinations of forecasts. In case of point forecasts - naive, Regression - combined using average of estimated forecasts or estimated with probabilistic forecast with averaging lower and upper bounds.
